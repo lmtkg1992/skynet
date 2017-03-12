@@ -3,5 +3,8 @@
     "description": "AI Project",
     "type": "project",
     "version": "0.0.1",
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Skynet\\": "src/Skynet"}
+    }
 }
