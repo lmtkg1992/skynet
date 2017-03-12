@@ -3,5 +3,5 @@
     "description": "AI Project",
     "type": "project",
     "version": "0.0.1",
-    "minimum-stability": "dev"
+    "minimum-stability": "0.0.1"
 }
