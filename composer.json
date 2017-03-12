@@ -2,6 +2,6 @@
     "name": "lmtkg1992/skynet",
     "description": "AI Project",
     "type": "project",
-    "minimum-stability": "dev",
-    "require": {}
+    "version": "0.0.1",
+    "minimum-stability": "dev"
 }
